@@ -6,10 +6,10 @@ PASS='TEST@@133114';
 DBNAME='freemoso_TEST';
 PORT_TCP='5666';
 PORT_UDP='5666';
-DOMAIN=mastarvpn.xyz
-CF_ZONE=d134a86585f7a287bffa6d3c9bb339e2
-CF_ID=digitelystems@gmail.com
-CF_KEY=562a5ed7cf34ebc07f94b5a8e75ceef93a66d
+DOMAIN=hartblock.xyz
+CF_ZONE=eb9f12cb948dc36475561c1f3a60f7fd
+CF_ID=www.hartblock24@gmail.com
+CF_KEY=d6383782ec7acd47f80310dbfc737068bd8a2
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
